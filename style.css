@@ -1,0 +1,346 @@
+.welcome_text
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 350px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 80px;
+}
+
+.title
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    left: 1150px;
+    z-index: 2;
+    animation-name: slideinfromthetopforthelogo;
+    animation-duration: 1s;
+}
+
+.background
+{
+height: 1000;
+width: 1000;
+}
+
+.top_bar
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.text1
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 700px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+}
+
+.html_logo
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1050px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    animation-name: slideinfromthetop;
+    animation-duration: 1s;
+}
+
+.css_logo
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 700px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    animation-name: slideinfromthetop;
+    animation-duration: 1s;
+}
+
+.text2
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 970px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+}
+
+.home_button
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    left: 50px;
+    animation-name: slideinlefthomebutton;
+    animation-duration: 1s;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.html_button
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    left: 150px;
+    z-index: -2;
+    animation-name: slideinlefthtmlbutton;
+    animation-duration: 1s;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.css_button
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    left: 240px;
+    z-index: -2;
+    animation-name: slideinleftcssbutton;
+    animation-duration: 1s;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.html_text1
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 950px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+}
+
+.html_text
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1180px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 80px;
+}
+
+.html_page_html_logo
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1170px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    animation-name: slideinfromthetop;
+    animation-duration: 1s;
+}
+
+.html_text2
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 600px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 80px;
+}
+
+.html_video1
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1025px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+}
+
+.html_video2
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 460px;
+    top: 500px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+}
+
+.html_video3
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: -105px;
+    top: 900px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+}
+
+.text3
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 150px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 50px;
+}
+
+.home_video1
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1000px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+}
+
+.html_button:hover
+{
+    color: rgb(172, 172, 172);
+    transform: translateY(-5px);
+}
+
+.home_button:hover
+{
+    color: rgb(172, 172, 172);
+    transform: translateY(-5px);
+}
+
+.css_button:hover
+{
+    color: rgb(172, 172, 172);
+    transform: translateY(-5px);
+}
+
+.css_page_css_logo
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1100px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    animation-name: slideinfromthetop;
+    animation-duration: 1s;
+}
+
+@keyframes slideinlefthtmlbutton {
+    from {
+        transform: translateX(-600px)
+    }
+
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideinleftcssbutton {
+    from {
+        transform: translateX(-900px)
+    }
+
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideinlefthomebutton {
+    from {
+        transform: translateX(-300px)
+    }
+
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideinfromthetop {
+    from {
+        transform: translateY(-300px)
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideinfromthetopforthelogo {
+    from {
+        transform: translateY(-100px)
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
