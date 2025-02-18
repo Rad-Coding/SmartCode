@@ -286,6 +286,24 @@ width: 1000;
     z-index: -3;
 }
 
+.bottom_bar
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 2400px;
+    left: 0px;
+}
+
+.video2_background
+{
+    position: absolute;
+    right: 0;
+    top: 1200px;
+    z-index: -3;
+}
+
 .html_button:hover
 {
     color: rgb(172, 172, 172);
