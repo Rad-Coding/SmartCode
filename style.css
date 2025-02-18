@@ -278,6 +278,14 @@ width: 1000;
     font-size: 50px;
 }
 
+.video_background
+{
+    position: absolute;
+    right: 0;
+    bottom: 200;
+    z-index: -3;
+}
+
 .html_button:hover
 {
     color: rgb(172, 172, 172);
@@ -357,5 +365,12 @@ width: 1000;
 
     to {
         transform: translateY(0);
+    }
+}
+
+@media (min-aspect-ratio: 16/9){
+    .video_background{
+        width: 100%;
+        height: auto;
     }
 }
