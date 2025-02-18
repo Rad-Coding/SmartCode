@@ -265,6 +265,19 @@ width: 1000;
     z-index: -2;
 }
 
+.text4
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 800px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 50px;
+}
+
 .html_button:hover
 {
     color: rgb(172, 172, 172);
