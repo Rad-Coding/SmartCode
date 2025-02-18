@@ -376,6 +376,45 @@ width: 1000;
     z-index: 2;
 }
 
+.whats_html_text
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1000px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 80px;
+}
+
+.whats_css_text
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1000px;
+    top: 200px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 80px;
+}
+
+.text5
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 800px;
+    top: 200px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 50px;
+}
+
 .html_button:hover
 {
     color: rgb(172, 172, 172);
