@@ -415,6 +415,119 @@ width: 1000;
     font-size: 50px;
 }
 
+.error_text
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1040px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 80px;
+}
+
+.error_text1
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 800px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 80px;
+}
+
+.error_text2
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1100px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 80px;
+}
+
+.error_text3
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 590px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 60px;
+}
+
+.error_page_buttons
+{
+    display: block;
+    position: absolute;
+    bottom: 500px;
+    right: 900px;
+    z-index: 2;
+    font-size: 40px;
+}
+
+.error_page_home_button
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 0px;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.error_page_html_button
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 300px;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.error_page_css_button
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 580px;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
 .html_button:hover
 {
     color: rgb(172, 172, 172);
@@ -446,6 +559,24 @@ width: 1000;
 }
 
 .home_button_bottom:hover
+{
+    color: rgb(172, 172, 172);
+    transform: translateY(-5px);
+}
+
+.error_page_css_button:hover
+{
+    color: rgb(172, 172, 172);
+    transform: translateY(-5px);
+}
+
+.error_page_html_button:hover
+{
+    color: rgb(172, 172, 172);
+    transform: translateY(-5px);
+}
+
+.error_page_home_button:hover
 {
     color: rgb(172, 172, 172);
     transform: translateY(-5px);
