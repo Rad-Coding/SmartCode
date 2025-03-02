@@ -177,6 +177,19 @@ width: 1000;
     font-size: 80px;
 }
 
+.css_text
+{
+    color: white;
+    outline-color: black;
+    font-family: 'Pixelify Sans';
+    position: relative;
+    left: 1190px;
+    top: 100px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    z-index: -2;
+    font-size: 80px;
+}
+
 .html_page_html_logo
 {
     color: white;
