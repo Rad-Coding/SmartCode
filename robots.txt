@@ -1,1 +1,4 @@
-Sitemap: https://rad-coding.github.io/SmartCode/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://rad-coding.github.io/SmartCode/sitemap.html
